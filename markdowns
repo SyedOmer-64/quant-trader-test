@@ -1,0 +1,13 @@
+
+## 🧠 Notebooks
+
+- `q5_kelly.ipynb`: Kelly Criterion implementation and research.
+- `q6_granger.ipynb`: Granger Causality test and insights.
+
+## ⚙️ How to Run
+
+### Run Python Code
+All code is written in Python 3. Use the following to run:
+
+```bash
+python your_script.py
